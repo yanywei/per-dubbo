@@ -1,2 +1,2 @@
 # per-dubbo
-练习dubbo的使用
+熟悉dubbo的框架的使用结构
